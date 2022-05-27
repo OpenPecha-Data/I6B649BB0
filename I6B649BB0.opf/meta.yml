@@ -1,0 +1,23 @@
+id: I6B649BB0
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T19:04:00.141684'
+last_modified: '2022-05-27T19:04:00.141697'
+parser: null
+source_metadata:
+  title: 'MSV 6,06: Nidāna'
+  language: bo
+  base:
+    fAFC3:
+      title: Nidāna
+      base_file: fAFC3.txt
+      order: 1
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
